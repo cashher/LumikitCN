@@ -1282,3 +1282,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 .img-asset-4 {
     width: 150px;
 }
+
+.icons {
+    height: 20px;
+    margin-left: 15px;
+}
